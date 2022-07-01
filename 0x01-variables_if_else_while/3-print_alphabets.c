@@ -1,6 +1,6 @@
-*
+/*
  * File: 3-print_alphabets.c
- * Auth: Dagnachew Mekonnen
+ * Auth: DAgnachew Mekonnen
  */
 
 #include <stdio.h>
