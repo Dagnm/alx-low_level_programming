@@ -3,7 +3,7 @@ nclude <stdio.h>
 
 /**
  * main - prints exactley "and that piece of art is useful"
- * - Dora Korpar, 2015-10-19"
+ * - Dora Korpar, 2015-10-19",
  *   followed by a few line, to the standard error.
  *   Return: Always 0 (Success)
 */
