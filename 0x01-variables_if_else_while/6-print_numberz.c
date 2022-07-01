@@ -1,7 +1,7 @@
 /*
  * File: 6-print_numberz.c
  * Auth: Dagnachew Mekonnen
- * /
+ */
 
 #include <stdio.h>
 
