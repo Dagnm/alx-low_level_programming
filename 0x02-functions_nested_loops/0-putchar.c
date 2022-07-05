@@ -1,15 +1,21 @@
 #include "main.h"
+
 /**
- * main - Prints Holberton
+ * printsomething - prints "something"
  *
- * Return: Always 0 (Success)
+ * Return: nothing
  */
-int main(void)
+void printsomething(void)
 {
+
+	_putchar('s');
+	_putchar('o');
 	_putchar('m');
-	_putchar('a');
+	_putchar('e');
+	_putchar('t');
+	_putchar('h');
 	_putchar('i');
 	_putchar('n');
+	_putchar('g');
 	_putchar('\n');
-	return (0);
 }

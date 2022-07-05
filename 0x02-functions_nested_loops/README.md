@@ -1,1 +1,3 @@
-These is exercise for function nested loops in C
+#0x02-functions_nested_loops
+## 0.  _putchar 
+program that prints "putchar", followed by a new line.
