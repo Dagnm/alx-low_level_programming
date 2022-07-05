@@ -1,4 +1,4 @@
-#include "dagn.h"
+#include "main.h"
 /**
  * main - Prints Holberton
  *
@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	_putchar('d');
+	_putchar('m');
 	_putchar('a');
-	_putchar('g');
+	_putchar('i');
 	_putchar('n');
 	_putchar('\n');
 	return (0);
